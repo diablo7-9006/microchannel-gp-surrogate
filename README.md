@@ -224,4 +224,5 @@ MIT License — feel free to use and modify for your own projects.
 
 **Harshavardhan Ramachandran**  
 MS Mechanical Engineering, Texas A&M University  
-[LinkedIn](https://www.linkedin.com/in/harshavardhan-ramachandran-886796191/) • [Portfolio](https://harshavardhancodes.github.io/portfolio/)
+[LinkedIn](https://www.linkedin.com/in/harshavardhan--r/) • [Portfolio](https://harshavardhanr-portfolio.netlify.app/)
+
